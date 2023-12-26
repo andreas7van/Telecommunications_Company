@@ -1,2 +1,2 @@
 # Telecommunications_Company
-A java programm for a telecommunications service provider store
+## A Java program for a telecommunications service provider store ##
